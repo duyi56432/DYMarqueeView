@@ -15,7 +15,7 @@
 ![dicImg](https://github.com/duyi56432/DYMarqueeView/blob/master/效果图.gif)  
 
 ## 博客
-[这里有更详细用法](https://www.jianshu.com/p/f188f53695d7)
+[这里有更详细用法](https://www.jianshu.com/p/3960b52b7358)
 
 ## 安装
 
